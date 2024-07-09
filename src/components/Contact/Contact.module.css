@@ -1,0 +1,31 @@
+.phonebookEntry {
+	display: block;
+	align-items: center;
+	padding: 15px;
+	border: 1px solid black;
+	border-radius: 5px;
+	position: relative;
+}
+
+.phonebookItem {
+	display: inline;
+	padding: 8px;
+}
+.phonebookIcon {
+	display: inline;
+}
+
+.phonebookDelete {
+	background-color: lightgrey;
+	padding: 5px 10px;
+	border: 1px solid grey;
+	border-radius: 5px;
+	cursor: pointer;
+	position: absolute;
+	top: 25px;
+	left: 190px;
+}
+
+.phonebookDelete:hover {
+	background-color: #e6e6e6;
+}

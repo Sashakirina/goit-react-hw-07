@@ -1,0 +1,13 @@
+.search {
+	border: 1px solid black;
+	border-radius: 5px;
+	width: 294px;
+	height: 28px;
+}
+
+.container {
+	display: block;
+	margin: 0 auto 30px auto;
+	box-sizing: border-box;
+	width: 300px;
+}
