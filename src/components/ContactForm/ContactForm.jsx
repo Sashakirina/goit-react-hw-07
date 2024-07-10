@@ -22,7 +22,6 @@ function ContactForm() {
 	const phoneId = useId();
 
 	const initialValues = {
-		id: "",
 		name: "",
 		number: "",
 	};
